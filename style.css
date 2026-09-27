@@ -4,7 +4,7 @@
   --ink: #221f1a;
   --ink-soft: #5c5648;
   --line: #ddd3bd;
-  --accent: #2f6f68;
+  --accent: #0f9960;
   --accent-ink: #fff8ef;
   --mono: 'IBM Plex Mono', ui-monospace, monospace;
   --serif: 'Fraunces', Georgia, serif;
@@ -18,8 +18,8 @@
     --ink: #f3ede1;
     --ink-soft: #b7ae9b;
     --line: #3a352b;
-    --accent: #6fc2b8;
-    --accent-ink: #14201f;
+    --accent: #3ddc84;
+    --accent-ink: #0d1f16;
   }
 }
 
